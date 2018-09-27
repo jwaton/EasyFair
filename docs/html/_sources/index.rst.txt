@@ -1,0 +1,51 @@
+.. EasyFair documentation master file, created by
+   sphinx-quickstart on Wed Sep  5 17:34:50 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+   EasyFair models.in_processing
+   ===================
+   .. automodule:: models.in_processing
+      :members:
+   
+   EasyFair models.post_processing
+   ===================
+   .. automodule:: models.post_processing
+      :members:
+   
+   
+   EasyFair detect
+   =====================
+   .. automodule:: detect
+      :members:
+   
+   EasyFair metrics
+   =================
+   .. automodule:: metrics
+      :members:
+   
+   EasyFair plots
+   ===================
+   .. automodule:: plots
+      :members:
+   
+   Indices and tables
+   ==================
+   
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
+   :caption: Contents:
+
+Welcome to EasyFair's documentation!
+====================================
+
+.. toctree::
+   :maxdepth: 2
+
+   metrics.rst
+   detect.rst
+   plots.rst
+   models.rst
+   datasets.rst
+
+

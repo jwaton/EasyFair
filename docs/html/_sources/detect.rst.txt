@@ -1,0 +1,10 @@
+detect package
+==============
+
+Module contents
+---------------
+
+.. automodule:: detect
+    :members:
+    :undoc-members:
+    :show-inheritance:
